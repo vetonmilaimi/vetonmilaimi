@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Veton Milaimi a Software Developer in focus of back-end, I live in Prishtina, Kosovo and I'm actually working like full time software developer with focus on back-end and automation things.<br>I was also programming trainer at jCoders Academy, There I trained young students for Web Fundamentals(HTML, CSS, JavaScript, Node.js, React.js,...)<br> 
+Hi, I'm Veton Milaimi a Software Developer in focus of back-end, I live in Prishtina, Kosovo and I'm actually working like full time software developer with focus on back-end and automation things.<br>I was also programming trainer at jCoders Academy, There I trained young students for Web Development(HTML, CSS, JavaScript, Node.js, React.js,...)<br> 
 
 
 ## 🌐 Socials:
