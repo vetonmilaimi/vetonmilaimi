@@ -14,11 +14,14 @@ I am Veton Milaimi, a software developer specializing in web development and aut
 # Backend Technologies: 
     > Node.js, Express.js, Laravel, Sharp (Library of Node.js), Redis, bCrypt, Express Joi Validation, JWT, SendGrid, Mongoose, Sequelize,...
 
+# Mobile:
+    > React Native,  Expo, Flutter.
+
 # Databases: 
     > MySql, PostgreSql, Sqlite, MongoDb.
 
 # Hosting: 
-    > AWS, Vercel, Netlify, Nginx...
+    > AWS, Vercel, Netlify, Nginx, Firebase,...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vetonmilaimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
